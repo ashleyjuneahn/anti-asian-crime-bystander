@@ -1,0 +1,62 @@
+h1 { 
+    color: #000000; font: 20px;
+}
+#map {
+    height: 600px; margin-top: 30px; width: 80%;
+    display: block;
+    margin: auto;
+}
+.marker {
+    background-image: url('circle.svg');
+    background-size: cover;
+    cursor: pointer;
+    border-radius: 30%;
+}
+#big {
+    width: 80px;
+    height: 80px;
+    border-radius: 30%;
+}
+#medium {
+    width: 40px;
+    height: 40px;
+    border-radius: 30%;
+}
+#small {
+    width: 15px;
+    height: 15px;
+    border-radius: 30%;
+}
+
+.mapboxgl-popup {
+    max-width: 200px;
+}
+
+.map-overlay {
+    position: absolute;
+    bottom: 5%;
+    right: 10%;
+    background: #fff;
+    margin-right: 20px;
+    overflow: auto;
+    border-radius: 3px;
+  }
+#legend {
+    padding: 4px;
+    line-height: 18px;
+    text-align: center;
+    font-size: 15px;
+}
+#legend p {
+    display: inline-block;
+}
+  
+.legend-key {
+    display: inline-block;
+    background-image: url('circle.svg');
+    background-size: cover;
+}
+
+.legend-value {
+    display: inline-block;
+}
