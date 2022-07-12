@@ -35,10 +35,15 @@ body {
   left: 50%;
   max-width: 100%;
 }
-.header p {
+.header #caption {
+  text-align: center;
+  font-size: 17px;
+  color: #fafafa;
+}
+.header #cred {
   text-align: right;
   font-size: 15px;
-  padding-right: 11%;
+  color: #fafafa;
 }
 .byline {
   padding-top: 10%;
