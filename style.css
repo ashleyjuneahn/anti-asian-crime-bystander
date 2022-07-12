@@ -17,20 +17,19 @@ body {
 .header h1 {
   color: #fafafa;
   text-align: center;
-  font-size: 70px;
+  font-size: 65px;
   font-family: 'Permanent Marker', cursive;
 }
 .header h3 {
   color: #fafafa;
   text-align: center;
-  font-size: 45px;
+  font-size: 40px;
   font-family: 'Permanent Marker', cursive;
 }
 #logo {
   left: 0;
   height: 15%;
   width: 12%;
-  padding-top: 8%;
 }
 #dom {
   left: 50%;
