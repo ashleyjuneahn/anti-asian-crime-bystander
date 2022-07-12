@@ -33,6 +33,10 @@ body {
   width: 12%;
   padding-top: 8%;
 }
+#dom {
+  left: 50%;
+  max-width: 100%;
+}
 .byline {
   padding-top: 10%;
   text-align: center;
