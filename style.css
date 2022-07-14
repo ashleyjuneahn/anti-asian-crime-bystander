@@ -132,7 +132,7 @@ article {
     font-size: 55%;
   }
   .header h3 {
-    30px;
+    font-size: 30px;
   }
   body {
     padding-left: 5%;
@@ -150,6 +150,7 @@ article {
   }
   .sticky p {
     font-size: 40px;
+  }
   .step {
     width: 20%;
     padding-left: 0%;
