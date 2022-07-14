@@ -157,10 +157,15 @@ article {
     height: 50%;
   }
   .step {
-    font-size: 15px;
     height: auto;
     padding-left: 50%;
     width: 50%;
+  }
+  .step p {
+    text-align: left;
+    padding: 1%;
+    font-size: 12px;
+    opacity: 1.0;
   }
   
 }
