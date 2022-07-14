@@ -143,6 +143,8 @@ article {
   }
   article {
     max-width: 100%;
+    left: 50%;
+    margin: 0 auto;
   }
   .sticky img {
     height: 20%;
@@ -153,14 +155,13 @@ article {
   }
   .sticky {
     width: 50%;
-    max-width: 50%;
   }
   .step {
-    width: 50%;
-    padding-left: 50%;
+    left: 50%;
+    width: 60%;
     font-size: 15px;
     height: auto;
-    padding: 0;
+    padding: 0%;
   }
   
 }
