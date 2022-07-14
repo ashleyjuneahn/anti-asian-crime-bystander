@@ -141,11 +141,6 @@ article {
   .blurb {
     width: 100%;
   }
-  article {
-    max-width: 100%;
-    left: 50%;
-    margin: 0 auto;
-  }
   .sticky img {
     height: 20%;
     width: 50%;
@@ -155,10 +150,11 @@ article {
   }
   .sticky {
     width: 50%;
+    height: 50%;
   }
   .step {
-    left: 50%;
-    width: 60%;
+    float: right;
+    width: 50%;
     font-size: 15px;
     height: auto;
     padding: 0%;
