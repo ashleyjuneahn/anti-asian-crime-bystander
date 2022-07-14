@@ -138,6 +138,10 @@ article {
     padding-left: 5%;
     padding-right: 5%;
   }
+  #map {
+    padding-left: 0;
+    padding-right: 0;
+  }
   .blurb {
     width: 100%;
   }
