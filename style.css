@@ -159,12 +159,12 @@ article {
   .step {
     height: auto;
     padding-left: 50%;
-    width: 50%;
+    width: 100%;
   }
   .step p {
     text-align: left;
     padding: 1%;
-    font-size: 12px;
+    font-size: 18px;
     opacity: 1.0;
   }
   
