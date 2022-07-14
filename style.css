@@ -123,3 +123,26 @@ article {
     opacity: 1.0;
   }
 
+@media only screen and (max-width: 600px) {
+  #logo {
+    height: 50%;
+    width: 43%;
+  }
+  body {
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .blurb {
+    width: 100%;
+  }
+  .sticky img {
+    height: 20%;
+    width: 15%;
+  }
+  .step {
+    width: 20%;
+    padding-left: 0%;
+  }
+  
+}
+
