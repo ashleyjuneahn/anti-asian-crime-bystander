@@ -153,11 +153,9 @@ article {
     height: 50%;
   }
   .step {
-    float: right;
-    width: 50%;
     font-size: 15px;
     height: auto;
-    padding: 0%;
+    padding-left: 50%;
   }
   
 }
