@@ -151,8 +151,12 @@ article {
   .sticky p {
     font-size: 40px;
   }
+  .sticky {
+    width: 35%;
+    max-width: 35%;
+  }
   .step {
-    width: 100%;
+    width: 65%;
     padding: 20%;
     padding-left: 35%;
   }
